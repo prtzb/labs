@@ -18,7 +18,7 @@ EOF
 
 sysctl --system
 
-apt-get update 
+#apt-get update 
 apt-get install -y containerd
 
 #Configure containerd
